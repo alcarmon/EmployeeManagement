@@ -9,7 +9,6 @@ x86/
 
 # Visual Studio / Rider / VS Code local state
 .vs/
-.vscode/
 .idea/
 *.user
 *.suo
