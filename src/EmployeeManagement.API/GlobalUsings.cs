@@ -1,0 +1,10 @@
+global using EmployeeManagement.API.Constants;
+global using EmployeeManagement.Application;
+global using EmployeeManagement.Application.Features.Authentication.DTOs;
+global using EmployeeManagement.Application.Features.Employees.DTOs;
+global using EmployeeManagement.Domain.Constants;
+global using EmployeeManagement.Domain.Exceptions;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Diagnostics;
+global using System.Net;

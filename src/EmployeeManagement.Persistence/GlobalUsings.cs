@@ -1,0 +1,13 @@
+global using EmployeeManagement.Application.Common.Interfaces;
+global using EmployeeManagement.Domain.Constants;
+global using EmployeeManagement.Domain.Entities;
+global using EmployeeManagement.Persistence.Configurations;
+global using EmployeeManagement.Persistence.Constants;
+global using EmployeeManagement.Persistence.Context;
+global using EmployeeManagement.Persistence.Repositories;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;

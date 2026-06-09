@@ -1,0 +1,42 @@
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+
+# Visual Studio / Rider / VS Code local state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET generated files
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+*.cache
+*.log
+*.nupkg
+*.snupkg
+
+# Test and coverage outputs
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+*.vsp
+*.vspx
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,13 @@
+global using EmployeeManagement.Application.Common.Interfaces;
+global using EmployeeManagement.Domain.BonusStrategies;
+global using EmployeeManagement.Domain.Constants;
+global using EmployeeManagement.Infrastructure.Constants;
+global using EmployeeManagement.Infrastructure.Factories;
+global using EmployeeManagement.Infrastructure.Jwt;
+global using EmployeeManagement.Infrastructure.Security;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.IdentityModel.Tokens;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using System.Text;
